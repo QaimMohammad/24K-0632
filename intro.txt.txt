@@ -1,0 +1,2 @@
+An algorithm is a step of tasks that aims to solve a problem meanwhile pseudocode is a way to express an algorithm in an almost progamming language using plain words (a computer cannot recognize pseudocodes)
+Github is a web-based platform that allows people on the internet to collaborate on public or private projects.
